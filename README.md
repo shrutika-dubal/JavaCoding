@@ -1,10 +1,10 @@
 **✅ Features**
 
-View All Rooms – Lists all rooms with their status (available/booked).
-Book Room – Allows a user to book a room by entering ID and name.
-Checkout Room – Frees up a room by clearing booking info.
-Database Integration – Room status is saved and retrieved from MySQL.
-Simple Menu-Driven UI – Console-based interactive interface.
+1.View All Rooms – Lists all rooms with their status (available/booked).
+2.Book Room – Allows a user to book a room by entering ID and name.
+3.Checkout Room – Frees up a room by clearing booking info.
+4.Database Integration – Room status is saved and retrieved from MySQL.
+5.Simple Menu-Driven UI – Console-based interactive interface.
 
 **🧰 Technologies Used**
 
