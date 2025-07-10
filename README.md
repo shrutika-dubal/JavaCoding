@@ -63,7 +63,7 @@ HotelManagement/
     
 **Developer info:**
 Name: shrutika dubal, Aditi patil, Ankita kamble
-E-mail:shrutikadubal8@gmail.com , aduu.patil@gmail.com, ankitakamble154@gmailcom
+E-mail:shrutikadubal8@gmail.com , aduu.patil@gmail.com, ankitakamble154@gmail.com
 Git-Hub name: shrutika-dubal
 
 
