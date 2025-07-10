@@ -19,7 +19,11 @@
 
 
 **📦 Dependencies
-**
+<dependency>
+          <groupId>org.postgresql</groupId>
+          <artifactId>postgresql</artifactId>
+          <version>42.7.1</version>
+      </dependency>
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
